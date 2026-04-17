@@ -20,4 +20,9 @@ WikiDocs에서 원하는 순서대로 페이지를 표시하려면 dd
 
 한번 더.. 헐..
 
-![](github_wikidocs.jpg)
+![](../assets/github_wikidocs.jpg)
+
+
+이제 잘 되는것 같다.
+
+하하하..
