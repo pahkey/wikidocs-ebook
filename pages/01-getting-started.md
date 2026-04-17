@@ -17,3 +17,7 @@ WikiDocs에서 원하는 순서대로 페이지를 표시하려면 dd
 
 ![](../assets/머신_러닝_워크플로우.png)
 
+
+한번 더.. 헐..
+
+![](github_wikidocs.jpg)
