@@ -183,9 +183,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "ccf6fd563342a93a",
+  "active": "d3227f2c5e93d85d",
   "lastOpenFiles": [
-    "머신_러닝_워크플로우.png",
+    "assets",
+    "assets/머신_러닝_워크플로우.png",
     "pages/01-getting-started.md",
     "README.md",
     "TOC.md"
