@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/01-getting-started.md",
+                "file": "pages/02-전체-흐름-한눈에-보기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-getting-started"
+              "title": "02-전체-흐름-한눈에-보기"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "554509836c6df9aa",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/01-getting-started.md",
+                "file": "pages/02-전체-흐름-한눈에-보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01-getting-started 의 백링크"
+              "title": "02-전체-흐름-한눈에-보기 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/01-getting-started.md",
+                "file": "pages/02-전체-흐름-한눈에-보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01-getting-started 의 나가는 링크"
+              "title": "02-전체-흐름-한눈에-보기 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/01-getting-started.md",
+                "file": "pages/02-전체-흐름-한눈에-보기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01-getting-started 의 개요"
+              "title": "02-전체-흐름-한눈에-보기 의 개요"
             }
           }
         ]
@@ -185,12 +185,39 @@
   },
   "active": "ccf6fd563342a93a",
   "lastOpenFiles": [
+    "pages/01-시작-전에-준비할-것.md",
+    "pages/02-전체-흐름-한눈에-보기.md",
+    "TOC.md",
+    "README.md",
+    "pages/03-위키독스에서-깃허브-연동-책-만들기.md",
+    "assets/01-시작-전에-준비할-것-일러스트.png",
+    "assets/01-시작-전에-준비할-것-일러스트.svg.png",
+    "assets/01-시작-전에-준비할-것-일러스트.svg",
+    "pages/08-발행-이후-운영과-수익화.md",
+    "pages/07-깃허브에-push-하고-위키독스에-반영하기.md",
+    "pages/06-TOC와-페이지로-책-구조-잡기.md",
+    "pages/05-LLM으로-초안-만들기.md",
+    "pages/04-옵시디언으로-원고-작성-환경-만들기.md",
+    "TODO.md",
+    "pages/01-왜-위키독스-전자책인가.md",
+    "pages/02-위키독스-전자책과-수익화-구조.md",
+    "pages/06-발행-이후-운영-체크리스트.md",
+    "pages/05-AI로-집필-속도-높이기.md",
+    "pages/04-옵시디언으로-원고-관리하기.md",
+    "pages/03-깃허브-연동으로-책-시작하기.md",
+    "skills/wikidocs-github-book/SKILL.md",
+    "pages/01-why-wikidocs-ebook.md",
+    "pages/04-Obsidian으로-원고-관리하기.md",
+    "pages/03-GitHub-연동으로-책-시작하기.md",
+    "pages/06-publishing-checklist.md",
+    "pages/05-writing-with-ai.md",
+    "pages/04-writing-with-obsidian.md",
+    "pages/03-github-linked-workflow.md",
+    "skills/wikidocs-github-book",
+    "skills",
     "assets/박재홍의_실리콘밸리_로고.webp",
     "assets/github_wikidocs.jpg",
     "assets/머신_러닝_워크플로우.png",
-    "pages/01-getting-started.md",
-    "assets",
-    "README.md",
-    "TOC.md"
+    "assets"
   ]
 }
