@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/03-깃허브-연동-방식으로-책을-쓰기-위해-준비할-것.md",
+                "file": "pages/03-1-위키독스-회원가입.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-깃허브-연동-방식으로-책을-쓰기-위해-준비할-것"
+              "title": "03-1-위키독스-회원가입"
             }
           }
         ]
@@ -270,7 +270,12 @@
   },
   "active": "a5446e9555a15442",
   "lastOpenFiles": [
+    "pages/03-1-위키독스-회원가입.md",
+    "assets/Pasted image 20260426121100.png",
+    "assets/Pasted image 20260426121014.png",
+    "assets/Pasted image 20260426120847.png",
     "pages/03-깃허브-연동-방식으로-책을-쓰기-위해-준비할-것.md",
+    "TOC.md",
     "pages/02-위키독스에서-책을-작성하는-방법.md",
     "pages/01-왜-위키독스에-책을-써야-할까.md",
     "README.md",
@@ -281,7 +286,6 @@
     "assets/Pasted image 20260426111311.png",
     "assets/02-위키독스에서-책을-작성하는-방법-삽화.png",
     "skills/wikidocs-github-book/SKILL.md",
-    "TOC.md",
     "pages/01-why-write-on-wikidocs.md",
     "assets/01-시작-전에-준비할-것-일러스트.svg",
     "pages/01-시작-전에-준비할-것.md",
@@ -293,11 +297,8 @@
     "pages/06-TOC와-페이지로-책-구조-잡기.md",
     "pages/05-LLM으로-초안-만들기.md",
     "pages/04-옵시디언으로-원고-작성-환경-만들기.md",
-    "assets/Pasted image 20260418133345.png",
     "scripts/commit-and-push.sh",
     "scripts",
-    "assets/Pasted image 20260418132813.png",
-    "assets/Pasted image 20260418132616.png",
     "pages/01-왜-위키독스-전자책인가.md",
     "pages/02-위키독스-전자책과-수익화-구조.md",
     "pages/06-발행-이후-운영-체크리스트.md",
@@ -306,8 +307,6 @@
     "pages/03-깃허브-연동으로-책-시작하기.md",
     "pages/01-why-wikidocs-ebook.md",
     "pages/04-Obsidian으로-원고-관리하기.md",
-    "pages/03-GitHub-연동으로-책-시작하기.md",
-    "pages/06-publishing-checklist.md",
     "skills/wikidocs-github-book",
     "skills",
     "assets"
