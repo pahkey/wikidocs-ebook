@@ -87,6 +87,7 @@
       {
         "id": "774d2f18109d29bf",
         "type": "tabs",
+        "dimension": 64.7119341563786,
         "children": [
           {
             "id": "94ef54f2a3361d96",
@@ -207,6 +208,7 @@
       {
         "id": "a7686663e4613f4a",
         "type": "tabs",
+        "dimension": 35.288065843621396,
         "children": [
           {
             "id": "a5446e9555a15442",
@@ -245,7 +247,7 @@
                 }
               },
               "icon": "terminal",
-              "title": "터미널: pahkey@mymac:~/books/wikidocs-ebook"
+              "title": "터미널: scripts/commit-and-push.sh"
             }
           }
         ]
