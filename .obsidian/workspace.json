@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOC.md",
+                "file": "pages/03-1-위키독스-회원가입.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOC"
+              "title": "03-1-위키독스-회원가입"
             }
           }
         ]
@@ -270,8 +270,9 @@
   },
   "active": "a5446e9555a15442",
   "lastOpenFiles": [
-    "TOC.md",
     "pages/03-1-위키독스-회원가입.md",
+    "skills/wikidocs-github-book/SKILL.md",
+    "TOC.md",
     "assets/Pasted image 20260426121100.png",
     "assets/Pasted image 20260426121014.png",
     "assets/Pasted image 20260426120847.png",
@@ -285,7 +286,6 @@
     "assets/Pasted image 20260426111335.png",
     "assets/Pasted image 20260426111311.png",
     "assets/02-위키독스에서-책을-작성하는-방법-삽화.png",
-    "skills/wikidocs-github-book/SKILL.md",
     "pages/01-why-write-on-wikidocs.md",
     "assets/01-시작-전에-준비할-것-일러스트.svg",
     "pages/01-시작-전에-준비할-것.md",
