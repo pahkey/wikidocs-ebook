@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/02-전체-흐름-한눈에-보기.md",
+                "file": "pages/01-왜-위키독스에-책을-써야-할까.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-전체-흐름-한눈에-보기"
+              "title": "01-왜-위키독스에-책을-써야-할까"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -89,13 +89,52 @@
         "type": "tabs",
         "children": [
           {
+            "id": "94ef54f2a3361d96",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Volumes/P41/pahkey/books/wikidocs-ebook",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "터미널: wikidocs-ebook"
+            }
+          },
+          {
             "id": "b1f162e8d00127f9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/02-전체-흐름-한눈에-보기.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "02-전체-흐름-한눈에-보기 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -113,12 +152,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/02-전체-흐름-한눈에-보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "02-전체-흐름-한눈에-보기 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -156,21 +194,65 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/02-전체-흐름-한눈에-보기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02-전체-흐름-한눈에-보기 의 개요"
+              "title": "개요"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a7686663e4613f4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5446e9555a15442",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Volumes/P41/pahkey/books/wikidocs-ebook",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "터미널: pahkey@mymac:~/books/wikidocs-ebook"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 669.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,50 +262,51 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "ccf6fd563342a93a",
+  "active": "a5446e9555a15442",
   "lastOpenFiles": [
-    "pages/03-위키독스에서-깃허브-연동-책-만들기.md",
-    "pages/02-전체-흐름-한눈에-보기.md",
-    "assets/Pasted image 20260418133345.png",
-    "pages/01-시작-전에-준비할-것.md",
-    "scripts/commit-and-push.sh",
-    "scripts",
-    "assets/Pasted image 20260418132813.png",
-    "assets/Pasted image 20260418132616.png",
-    "assets/Pasted image 20260418132828.png",
-    "TOC.md",
+    "pages/01-왜-위키독스에-책을-써야-할까.md",
+    "pages/02-위키독스에서-책을-작성하는-방법.md",
+    "assets/Pasted image 20260426112305.png",
+    "assets/Pasted image 20260426112116.png",
+    "assets/01-왜-위키독스에-책을-써야-할까-삽화.png",
     "README.md",
-    "assets/01-시작-전에-준비할-것-일러스트.png",
-    "assets/01-시작-전에-준비할-것-일러스트.svg.png",
+    "assets/Pasted image 20260426111335.png",
+    "assets/Pasted image 20260426111311.png",
+    "assets/02-위키독스에서-책을-작성하는-방법-삽화.png",
+    "skills/wikidocs-github-book/SKILL.md",
+    "TOC.md",
+    "pages/01-why-write-on-wikidocs.md",
     "assets/01-시작-전에-준비할-것-일러스트.svg",
+    "pages/01-시작-전에-준비할-것.md",
+    "TODO.md",
+    "pages/02-전체-흐름-한눈에-보기.md",
+    "pages/03-위키독스에서-깃허브-연동-책-만들기.md",
     "pages/08-발행-이후-운영과-수익화.md",
     "pages/07-깃허브에-push-하고-위키독스에-반영하기.md",
     "pages/06-TOC와-페이지로-책-구조-잡기.md",
     "pages/05-LLM으로-초안-만들기.md",
     "pages/04-옵시디언으로-원고-작성-환경-만들기.md",
-    "TODO.md",
+    "assets/Pasted image 20260418133345.png",
+    "scripts/commit-and-push.sh",
+    "scripts",
+    "assets/Pasted image 20260418132813.png",
+    "assets/Pasted image 20260418132616.png",
     "pages/01-왜-위키독스-전자책인가.md",
     "pages/02-위키독스-전자책과-수익화-구조.md",
     "pages/06-발행-이후-운영-체크리스트.md",
     "pages/05-AI로-집필-속도-높이기.md",
     "pages/04-옵시디언으로-원고-관리하기.md",
     "pages/03-깃허브-연동으로-책-시작하기.md",
-    "skills/wikidocs-github-book/SKILL.md",
     "pages/01-why-wikidocs-ebook.md",
     "pages/04-Obsidian으로-원고-관리하기.md",
     "pages/03-GitHub-연동으로-책-시작하기.md",
     "pages/06-publishing-checklist.md",
-    "pages/05-writing-with-ai.md",
-    "pages/04-writing-with-obsidian.md",
-    "pages/03-github-linked-workflow.md",
     "skills/wikidocs-github-book",
     "skills",
-    "assets/박재홍의_실리콘밸리_로고.webp",
-    "assets/github_wikidocs.jpg",
-    "assets/머신_러닝_워크플로우.png",
     "assets"
   ]
 }
