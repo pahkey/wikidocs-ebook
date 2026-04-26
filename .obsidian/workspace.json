@@ -247,7 +247,7 @@
                 }
               },
               "icon": "terminal",
-              "title": "터미널: scripts/commit-and-push.sh"
+              "title": "터미널: git diff"
             }
           }
         ]
