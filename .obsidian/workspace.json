@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/03-1-위키독스-회원가입.md",
+                "file": "TOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-1-위키독스-회원가입"
+              "title": "TOC"
             }
           }
         ]
@@ -270,12 +270,12 @@
   },
   "active": "a5446e9555a15442",
   "lastOpenFiles": [
+    "TOC.md",
     "pages/03-1-위키독스-회원가입.md",
     "assets/Pasted image 20260426121100.png",
     "assets/Pasted image 20260426121014.png",
     "assets/Pasted image 20260426120847.png",
     "pages/03-깃허브-연동-방식으로-책을-쓰기-위해-준비할-것.md",
-    "TOC.md",
     "pages/02-위키독스에서-책을-작성하는-방법.md",
     "pages/01-왜-위키독스에-책을-써야-할까.md",
     "README.md",
